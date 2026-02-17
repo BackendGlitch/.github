@@ -1,83 +1,39 @@
 # Backend Glitch
 
-**Backend Glitch** is a software studio focused on building **blockchain-first platforms** and **gamified systems** with production-grade engineering.
+**We build Web3 infrastructure and backend systems.**
 
-We design and ship systems where **mechanics matter** — tokens, incentives, rules, scalability, and real-world usage.
+Backend Glitch is a blockchain-focused software studio based in Tunisia. We work with startups and protocols to design and ship production-grade Web3 platforms — from smart contract architecture to the APIs and backends that power them.
 
 ---
 
-## What We Do
+## What We Build
 
-### 🧱 Blockchain & Web3 (Core Focus)
-- Smart contracts (EVM-based)
-- Tokenized platforms
-- On-chain logic & integrations
-- Secure, scalable Web3 backends
+**Blockchain & Web3**
+Smart contracts, tokenized platforms, on-chain logic, and everything in between. We specialize in EVM-based systems built for real usage — not demos.
 
-### 🎮 Gamification Platforms
-- Crypto-based game mechanics
-- Reward systems & incentives
-- Web-based interactive experiences
-- Game-like UX for real products
-
-### 🌐 Full-Stack Web Development
-- Modern web applications
-- Backend APIs & system architecture
-- Scalable infrastructure
-
-### 🤖 AI Systems
-- AI-powered features and automation
-- Model integration into real products
-- Practical AI (not demos)
-
-### 🕹️ Game Development
-- Web games & interactive experiences
-- Game mechanics applied to non-game products
+**Backend Systems & APIs**
+Scalable backend infrastructure, system architecture, and full-stack web development with a strong emphasis on the server side. We care about clean architecture and systems that hold up in production.
 
 ---
 
 ## How We Work
 
-- Product-driven engineering
-- Clean architecture & maintainable code
-- Security-first mindset
-- Fast iteration, real shipping
-
-We care about **building systems that actually work**, not just prototypes.
+We are engineers first. We move fast, write maintainable code, and ship things that actually work. Security and scalability are not afterthoughts — they are part of the design from day one.
 
 ---
 
-## Open Source & Projects
+## Open Source
 
-This organization hosts:
-- Internal tools
-- Experimental systems
-- Open-source components
-- Infrastructure and backend projects
-
-Some repositories are public, others are private or under active development.
+This organization hosts internal tools, open-source components, and experimental systems we build in-house. Some repositories are public, others are under active development.
 
 ---
 
-## Internships / PFE (Final-Year Projects)
+## Internships & PFE
 
-We occasionally offer **PFE / internship opportunities** for motivated students interested in:
-- Blockchain & Web3
-- Backend systems
-- Gamification
-- Applied AI
+We occasionally take on final-year students (PFE) and interns who want to work on real Web3 and backend projects — not toy assignments.
 
-If you are interested, reach out.
+If you are interested, reach out at **contact@backendglitch.com**
 
 ---
 
-## Contact
-
-📩 Email: contact@backendglitch.com  
-🌍 Location: Tunisia  
-🔗 Website: coming soon
-
----
-
-**Backend Glitch**  
-Building systems with real mechanics.
+🌍 Tunisia &nbsp;·&nbsp; 🔗 [backendglitch.com](https://backendglitch.com) &nbsp;·&nbsp; 📩 contact@backendglitch.com
